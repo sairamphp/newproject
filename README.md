@@ -1,2 +1,2 @@
 # newproject
-testing one more
+testing index page
